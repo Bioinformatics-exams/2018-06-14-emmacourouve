@@ -83,3 +83,4 @@ Ces méthodes de "Whole Exome Sequencing" (WES) permettent d'identifier en théo
 les critères qui ont permis de classer les 2 variants comme délétères sont une mutations provoquant une coupure aberrante 
 entre l'exon et l'intron numéro 3 provoquant une altération de la protéine, ainsi qu'une muation provoquant l'apparition d'un codon stop prématuré entrainant lui aussi l'apparition d'une protéine tronquée.
 ### Q7
+Les critères faisant de FBXO11 un bon candidat pour la déficience intellectuelle sont : l'autisme,une microcéphalie post natale, desd problèmes de plasticité neuronale,  des troubles comportementaux,...
