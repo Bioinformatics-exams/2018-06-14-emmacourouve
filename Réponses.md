@@ -18,7 +18,7 @@ sur le chromosome X (Xq28)
 la maladie se transmet de manière autosomique dominante
 
 ### Q5
-
+Une maladie génique autosomique dominante liée à l'X s'exprime en fonction de l'activation d'un des 2 chromosomes X (chez la fille). Si le chromosome porteur de la mutation est inactivé alors la fille ne sera pas porteuse de la maladie et inversement.
 
 ### Q6
 Pour que la maladie se transmette de manière autosomique dominante, un seul allèle muté est suffisant à la manifestation de la maladie.(OMIM)
