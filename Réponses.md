@@ -65,6 +65,7 @@ b) Developmental Disorders Genotype-Phenotype Database (DDG2P) est une liste de 
 la liste rassemble le niveau de certitude, la conséquence des mutations, et le statut allélique associé à la maladie.
 
 ### Q2
+(pas le temps)
 
 ### Q3
  a) NM_001190274.1 : il s'agit du transcrit du gène FBXO11
@@ -78,6 +79,7 @@ le but de cette technique est d'identifier les différents variants génétiques
 Ces méthodes de "Whole Exome Sequencing" (WES) permettent d'identifier en théorie la quasi totalité des variations de séquences qui existent au niveau des séquences codantes entre des sujets atteints de la maladie multifactorielle et des sujets indemnes.
 
 ### Q5
+(pas le temps)
 
 ### Q6
 les critères qui ont permis de classer les 2 variants comme délétères sont une mutations provoquant une coupure aberrante 
